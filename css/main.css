@@ -26,6 +26,7 @@ body, html {
 
 
 
+
 /***** TABLETS *****/
 @media (min-width: 768px){
   h1 {
@@ -55,6 +56,5 @@ body, html {
 
   p {
     color: #c19e74;
-
   }
 }
